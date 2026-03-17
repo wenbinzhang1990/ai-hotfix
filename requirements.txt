@@ -1,0 +1,2 @@
+alibabacloud_sls20201230>=1.4.0,<2.0.0
+alibabacloud_credentials

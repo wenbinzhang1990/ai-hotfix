@@ -1,0 +1,6 @@
+# Example: app-name -> git repository URL mapping
+# Format: app-name:git@your-git-server.com:org/repo.git
+
+demo-app:git@github.com:your-org/demo-app.git
+user-service:git@github.com:your-org/user-service.git
+order-service:git@github.com:your-org/order-service.git
