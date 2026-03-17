@@ -1,8 +1,0 @@
-{
-  "appRepoMappingFile": "/path/to/your/app-repo-mapping.txt",
-  "sshKeyPath": "~/.ssh/id_rsa",
-  "localWorkDir": "~/hotfix-workspace",
-  "sls": {
-    "project": "your-sls-project-name"
-  }
-}
